@@ -1,0 +1,52 @@
+body{
+background-image: url('max.jpg');
+}
+input{
+border-radius: 50px;
+transition: all .55s ease;
+}
+input:hover{
+transform: translateX(14px);
+}
+.input input{
+border-radius: 50px;
+color: #00eaff;
+background-color: transparent;
+border-color: #00eaff;
+font-size: 16px;
+}
+select{
+border-radius: 50px;
+border-color: #00eaff;
+background-color: transparent;
+font-size: 50px;
+border-width: 4px;
+width: 30px;
+margin-left: 40px;
+}
+#file{
+color: red;
+}
+#button{
+font-size: 20px;
+margin-left: 80px;
+transition: all .55s ease;
+border-radius: 50px;
+font-weight: 300px;
+background-color: transparent;
+color: #00eaff;
+border-color:orange;
+}
+
+h2{
+color: grey;
+text-transform: uppercase;
+}
+h3{
+color: white;
+font-size: 30px;
+}
+h1{
+color:red;
+font-size: 20px;
+}
